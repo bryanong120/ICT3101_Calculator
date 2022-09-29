@@ -1,3 +1,5 @@
+using System.Runtime.CompilerServices;
+
 namespace ICT3101_Calculator.UnitTests;
 
 public class CalculatorTests
@@ -151,5 +153,14 @@ public class CalculatorTests
         // Act
         // Assert
         Assert.That(() => _calculator.UnknownFunctionB(4,5), Throws.ArgumentException);
+    }
+
+    [Test]
+    public void GenMagicNum_GetNumber464()
+    {
+        // Act
+        double result = _calculator.GenMagicNum(5, new FileReader()); 
+        // Assert
+        Assert.That(result, Is.EqualTo(464));
     }
 }

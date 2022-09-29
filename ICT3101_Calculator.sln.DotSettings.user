@@ -1,4 +1,18 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=208b61f8_002D970b_002D4b88_002Da636_002D14eee6fd58f3/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="UnknownFunctionB_WhenGivenTest3_ResultThrowArgumentException" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::C0DF600A-BCD7-4818-A19F-C9289472D84F::net6.0::ICT3101_Calculator.UnitTests.CalculatorTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2b13dcbb_002Dcf2c_002D49b8_002Db6c1_002D6123c4a44eea/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="UnknownFunctionA_WhenGivenTest3_Result" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::C0DF600A-BCD7-4818-A19F-C9289472D84F::net6.0::ICT3101_Calculator.UnitTests.CalculatorTests.UnknownFunctionA_WhenGivenTest3_Result&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::C0DF600A-BCD7-4818-A19F-C9289472D84F::net6.0::ICT3101_Calculator.UnitTests.CalculatorTests.UnknownFunctionA_WhenGivenTest4_ResultThrowArgumentException&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::C0DF600A-BCD7-4818-A19F-C9289472D84F::net6.0::ICT3101_Calculator.UnitTests.CalculatorTests.UnknownFunctionB_WhenGivenTest0_Result&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::C0DF600A-BCD7-4818-A19F-C9289472D84F::net6.0::ICT3101_Calculator.UnitTests.CalculatorTests.UnknownFunctionB_WhenGivenTest1_Result&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::C0DF600A-BCD7-4818-A19F-C9289472D84F::net6.0::ICT3101_Calculator.UnitTests.CalculatorTests.UnknownFunctionB_WhenGivenTest2_Result&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7c990f04_002D36fd_002D41d3_002Da2a1_002De7d0d4743a6c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;ICT3101_Calculator.UnitTests&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
   &lt;Or&gt;
     &lt;Project Location="/Users/bryanong/Downloads/SchoolDocs/3101_Labs/ICT3101_Calculator/ICT3101_Calculator.UnitTests" Presentation="&amp;lt;ICT3101_Calculator.UnitTests&amp;gt;" /&gt;
@@ -14,7 +28,16 @@
     &lt;/TestAncestor&gt;
   &lt;/Or&gt;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8a2cc6ba_002D0727_002D41a9_002D94c4_002Db72e5d8064ad/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="UsingCalculatorDivisionFeature" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8a2cc6ba_002D0727_002D41a9_002D94c4_002Db72e5d8064ad/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="UsingCalculatorDivisionFeature" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::1636FCF5-DE27-4DDC-AFEA-42749CB67D9D::net6.0::SpecFlowCalculatorTests.Features.UsingCalculatorDivisionFeature&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::1636FCF5-DE27-4DDC-AFEA-42749CB67D9D::net6.0::SpecFlowCalculatorTests.Features.UsingCalculatorAdditionFeature&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::1636FCF5-DE27-4DDC-AFEA-42749CB67D9D::net6.0::SpecFlowCalculatorTests.Features.UsingCalculatorFactorialFeature&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::C0DF600A-BCD7-4818-A19F-C9289472D84F::net6.0::ICT3101_Calculator.UnitTests.CalculatorTests.Divide_WithZerosAsInputs_ResultThrowArgumentException&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::C0DF600A-BCD7-4818-A19F-C9289472D84F::net6.0::ICT3101_Calculator.UnitTests.CalculatorTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=af302230_002D79ed_002D466a_002Dbe5b_002Daa88e9f2cf95/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="UsingCalculatorDivisionFeature #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
   &lt;TestAncestor&gt;
     &lt;TestId&gt;NUnit3x::1636FCF5-DE27-4DDC-AFEA-42749CB67D9D::net6.0::SpecFlowCalculatorTests.Features.UsingCalculatorDivisionFeature&lt;/TestId&gt;
     &lt;TestId&gt;NUnit3x::1636FCF5-DE27-4DDC-AFEA-42749CB67D9D::net6.0::SpecFlowCalculatorTests.Features.UsingCalculatorAdditionFeature&lt;/TestId&gt;

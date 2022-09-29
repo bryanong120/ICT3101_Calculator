@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
 
     defaults:
-      runs:
+      run:
         working-directory: ./
 
     steps:
@@ -26,10 +26,4 @@ jobs:
     - name: Build
       run: dotnet build --no-restore
     - name: Test
-      run: dotnet test --no-build --verbosity normal
-    -name: Nunit Tests
-      working-directory: ICT3101_Calculator.UnitTests/
-      run: dotnet test --no-build --verbosity normal
-    -name: SpecFlow Tests
-      working-directory: SpecFlowCalculatorTests/
       run: dotnet test --no-build --verbosity normal

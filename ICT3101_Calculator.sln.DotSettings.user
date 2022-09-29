@@ -1,0 +1,22 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7c990f04_002D36fd_002D41d3_002Da2a1_002De7d0d4743a6c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from &amp;lt;ICT3101_Calculator.UnitTests&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Or&gt;
+    &lt;Project Location="/Users/bryanong/Downloads/SchoolDocs/3101_Labs/ICT3101_Calculator/ICT3101_Calculator.UnitTests" Presentation="&amp;lt;ICT3101_Calculator.UnitTests&amp;gt;" /&gt;
+    &lt;TestAncestor&gt;
+      &lt;TestId&gt;NUnit3x::1636FCF5-DE27-4DDC-AFEA-42749CB67D9D::net6.0::SpecFlowCalculatorTests.Features.UsingCalculatorAdditionFeature.AddTwoNumbers&lt;/TestId&gt;
+      &lt;TestId&gt;NUnit3x::1636FCF5-DE27-4DDC-AFEA-42749CB67D9D::net6.0::SpecFlowCalculatorTests.Features.UsingCalculatorAdditionFeature.AddZerosForSpecialCases&lt;/TestId&gt;
+      &lt;TestId&gt;NUnit3x::1636FCF5-DE27-4DDC-AFEA-42749CB67D9D::net6.0::SpecFlowCalculatorTests.Features.UsingCalculatorDivisionFeature&lt;/TestId&gt;
+      &lt;TestId&gt;NUnit3x::1636FCF5-DE27-4DDC-AFEA-42749CB67D9D::net6.0::SpecFlowCalculatorTests.Features.UsingCalculatorFactorialFeature&lt;/TestId&gt;
+      &lt;TestId&gt;NUnit3x::1636FCF5-DE27-4DDC-AFEA-42749CB67D9D::net6.0::SpecFlowCalculatorTests.Features.UsingCalculatorAvailabilityFeature&lt;/TestId&gt;
+      &lt;TestId&gt;NUnit3x::1636FCF5-DE27-4DDC-AFEA-42749CB67D9D::net6.0::SpecFlowCalculatorTests.Features.UsingCalculatorBasicReliabilityFeature&lt;/TestId&gt;
+      &lt;TestId&gt;NUnit3x::1636FCF5-DE27-4DDC-AFEA-42749CB67D9D::net6.0::SpecFlowCalculatorTests.Features.UsingCalculatorDefectDensityAndSSIFeature&lt;/TestId&gt;
+      &lt;TestId&gt;NUnit3x::1636FCF5-DE27-4DDC-AFEA-42749CB67D9D::net6.0::SpecFlowCalculatorTests.Features.UsingCalculatorMusaFeature&lt;/TestId&gt;
+    &lt;/TestAncestor&gt;
+  &lt;/Or&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8a2cc6ba_002D0727_002D41a9_002D94c4_002Db72e5d8064ad/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="UsingCalculatorDivisionFeature" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::1636FCF5-DE27-4DDC-AFEA-42749CB67D9D::net6.0::SpecFlowCalculatorTests.Features.UsingCalculatorDivisionFeature&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::1636FCF5-DE27-4DDC-AFEA-42749CB67D9D::net6.0::SpecFlowCalculatorTests.Features.UsingCalculatorAdditionFeature&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

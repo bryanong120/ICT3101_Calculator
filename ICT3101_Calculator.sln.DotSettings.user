@@ -2,6 +2,7 @@
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=208b61f8_002D970b_002D4b88_002Da636_002D14eee6fd58f3/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="UnknownFunctionB_WhenGivenTest3_ResultThrowArgumentException" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
   &lt;TestAncestor&gt;
     &lt;TestId&gt;NUnit3x::C0DF600A-BCD7-4818-A19F-C9289472D84F::net6.0::ICT3101_Calculator.UnitTests.CalculatorTests&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::C0DF600A-BCD7-4818-A19F-C9289472D84F::net6.0::ICT3101_Calculator.UnitTests.AdditionalCalculatorTests&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2b13dcbb_002Dcf2c_002D49b8_002Db6c1_002D6123c4a44eea/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="UnknownFunctionA_WhenGivenTest3_Result" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;

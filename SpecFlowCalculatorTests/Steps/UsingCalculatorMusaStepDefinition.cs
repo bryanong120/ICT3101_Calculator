@@ -11,7 +11,7 @@ namespace SpecFlowCalculatorTests.Steps;
 [Binding]
 public sealed class UsingCalculatorMusaStepDefinition
 {
-    private double[]? _result;
+    private double[] _result;
     private Calculator _calculator;
 
     public UsingCalculatorMusaStepDefinition(Calculator calculator)
@@ -28,10 +28,7 @@ public sealed class UsingCalculatorMusaStepDefinition
     [Then(@"the failure intenstiy result should be (.*) and the expected failures should be (.*)")]
     public void ThenTheFailureIntenstiyResultShouldBeAndTheExpectedFailuresShouldBe(double p0, double p1)
     {
-        if (_result != null)
-        {
-            Assert.That(_result[0], Is.EqualTo(p0));
-            Assert.That(_result[1], Is.EqualTo(p1));
-        }
+        Assert.That(_result[0], Is.EqualTo(p0));
+        Assert.That(_result[1], Is.EqualTo(p1));
     }
 }

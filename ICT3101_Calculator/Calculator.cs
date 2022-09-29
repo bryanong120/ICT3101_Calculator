@@ -156,7 +156,7 @@ public class Calculator
         return result;
     }
 
-    public double[]? Musa(double num1, double num2, double num3, double num4)
+    public double[] Musa(double num1, double num2, double num3, double num4)
     {
         double[]? result = new double[2];
         double currentFailure = CurrentFailure(num1, num2, num3);

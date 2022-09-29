@@ -19,5 +19,7 @@
     &lt;TestId&gt;NUnit3x::1636FCF5-DE27-4DDC-AFEA-42749CB67D9D::net6.0::SpecFlowCalculatorTests.Features.UsingCalculatorDivisionFeature&lt;/TestId&gt;
     &lt;TestId&gt;NUnit3x::1636FCF5-DE27-4DDC-AFEA-42749CB67D9D::net6.0::SpecFlowCalculatorTests.Features.UsingCalculatorAdditionFeature&lt;/TestId&gt;
     &lt;TestId&gt;NUnit3x::1636FCF5-DE27-4DDC-AFEA-42749CB67D9D::net6.0::SpecFlowCalculatorTests.Features.UsingCalculatorFactorialFeature&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::C0DF600A-BCD7-4818-A19F-C9289472D84F::net6.0::ICT3101_Calculator.UnitTests.CalculatorTests.Divide_WithZerosAsInputs_ResultThrowArgumentException&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::C0DF600A-BCD7-4818-A19F-C9289472D84F::net6.0::ICT3101_Calculator.UnitTests.CalculatorTests&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

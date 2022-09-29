@@ -7,7 +7,7 @@ namespace SpecFlowCalculatorTests.Steps;
 public sealed class CalculatorStepDefinitions
 {
     private double _result;
-    private Calculator? _calculator;
+    private Calculator _calculator;
 
     [Given(@"I have a calculator")]
     public void GivenIHaveACalculator()
@@ -18,7 +18,7 @@ public sealed class CalculatorStepDefinitions
     [When(@"I have entered (.*) and (.*) into the calculator and press add")]
     public void WhenIHaveEnteredAndIntoTheCalculator(double p0, double p1)
     {
-        if (_calculator != null) _result = _calculator.Add(p0, p1);
+        _result = _calculator.Add(p0, p1);
     }
 
     [Then(@"the result should be (.*)")]

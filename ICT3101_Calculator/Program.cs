@@ -13,8 +13,8 @@ class Program
         while (!endApp)
         {
             // Declare variables and set to empty.
-            string? numInput1 = "";
-            string? numInput2 = "";
+            string numInput1 = "";
+            string numInput2 = "";
             double result = 0;
 
             // Ask the user to type the number first
@@ -50,7 +50,7 @@ class Program
             Console.WriteLine("\tc - Area of Circle");
             Console.Write("Your option? ");
             
-            string? op = Console.ReadLine();
+            string op = Console.ReadLine();
 
             try
             {
